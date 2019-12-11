@@ -3,7 +3,8 @@
 int main()
 {
 
-    int a,b,choice;
+    int a,b;
+    char choice;
     printf("Hi! welcome to the long overdue disappointment \n");
     printf("Below are four choices on how to manipulate the two numbers which you'll input \n\n");
     printf("1.+\n2.-\n3.*\n4./\n");
