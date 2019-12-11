@@ -9,7 +9,7 @@ int main()
     printf("Below are four choices on how to manipulate the two numbers which you'll input \n\n");
     printf("1.+\n2.-\n3.*\n4./\n");
     printf("Please Pick which option best suits your needs: ");
-    scanf("%d", &choice);
+    scanf("%c", &choice);
     printf("Number 1: ");
     scanf("%d", &a);
     printf("Number 2: ");
