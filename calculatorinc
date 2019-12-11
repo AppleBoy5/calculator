@@ -6,7 +6,7 @@ int main()
     int a,b,choice;
     printf("Hi! welcome to the long overdue disappointment \n");
     printf("Below are four choices on how to manipulate the two numbers which you'll input \n\n");
-    printf("1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n");
+    printf("1.+\n2.-\n3.*\n4./\n");
     printf("Please Pick which option best suits your needs: ");
     scanf("%d", &choice);
     printf("Number 1: ");
